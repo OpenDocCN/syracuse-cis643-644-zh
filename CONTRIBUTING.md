@@ -4,8 +4,8 @@
 
 原文：
 
-+   [PDF](../en/en.pdf)
-+   [HTML](../en/en.html)
++   [PDF](en/en.pdf)
++   [HTML](en/en.html)
 
 可用的翻译引擎：
 
