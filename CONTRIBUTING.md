@@ -2,20 +2,6 @@
 
 > 请您勇敢地去翻译和改进翻译。虽然我们追求卓越，但我们并不要求您做到十全十美，因此请不要担心因为翻译上犯错——在大部分情况下，我们的服务器已经记录所有的翻译，因此您不必担心会因为您的失误遭到无法挽回的破坏。（改编自维基百科）
 
-原文：
-
-+   [PDF](en/en.pdf)
-+   [HTML](en/en.html)
-
-可用的翻译引擎：
-
-+   [谷歌](https://translate.google.cn/)
-+   [百度](https://fanyi.baidu.com/)
-+   [网易](https://fanyi.youdao.com/)
-+   [搜狗](https://fanyi.sogou.com/)
-+   [腾讯](https://fanyi.qq.com/)
-+   [Deepl](https://deepl.com/)
-
 负责人：
 
 +   [飞龙](https://github.com/wizardforcel)
@@ -55,7 +41,19 @@
 
 ### 二、翻译
 
+原文：
+
++   [PDF](en/en.pdf)
++   [HTML](en/en.html)
+
 可以合理利用翻译引擎，但一定要把它变得可读！
+
++   [谷歌](https://translate.google.cn/)
++   [百度](https://fanyi.baidu.com/)
++   [网易](https://fanyi.youdao.com/)
++   [搜狗](https://fanyi.sogou.com/)
++   [腾讯](https://fanyi.qq.com/)
++   [Deepl](https://deepl.com/)
 
 ### 三、提交
 
